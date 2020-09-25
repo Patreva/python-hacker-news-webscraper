@@ -1,2 +1,2 @@
 # python-hacker-news-webscraper
-This is python hacker-news webscraping using BeautifulSoup
+This is python hacker-news webscraping using BeautifulSoup selecting votes greater than 100 sorting the news using votes
